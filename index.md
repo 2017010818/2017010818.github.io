@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td width="25%">
+    <td width="75%">
       <h1>个人信息</h1>
       <p><b>姓名：李家旭 <b></p>
       <p><b>性别：男</b></p>
