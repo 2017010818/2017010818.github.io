@@ -8,8 +8,8 @@
       <p><b>学校：浙江万里学院</b></p>
       <p><b>邮箱：1784392136@qq.com</b></p>
     </td>
-    <td width="75%">
-      <img src="主页头像.jpg" width="50%">     
+    <td width="25%">
+      <img src="主页头像.jpg" width="100%">     
     </td>
   </tr>
 </table>
