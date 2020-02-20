@@ -16,7 +16,7 @@
       <p><b>邮箱：1784392136@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="/主页头像.jpg" width="100%">      % ![证件照](/主页头像.jpg)
+      <img src="/主页头像.jpg" width="100%">      % ![证件照](/https://github.com/2017010818/2017010818.github.io/blob/master/%E4%B8%BB%E9%A1%B5%E5%A4%B4%E5%83%8F.jpg?raw=true)
     </td>
   </tr>
 </table>
