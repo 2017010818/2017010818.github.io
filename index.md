@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="25%">
       <h1>个人信息</h1>
       <p><b>姓名：李家旭 <b></p>
       <p><b>性别：男</b></p>
@@ -9,7 +9,7 @@
       <p><b>邮箱：1784392136@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="/主页头像.jpg" width="50%">     
+      <img src="/主页头像.jpg" width="25%">     
     </td>
   </tr>
 </table>
